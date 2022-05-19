@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-06-phonebook/static/css/main.b11feddf.css",
+    "main.js": "/goit-react-hw-06-phonebook/static/js/main.22d4b75b.js",
+    "static/media/depositphotos_8138615-stock-photo-old-style-phone-over-yellow.jpg": "/goit-react-hw-06-phonebook/static/media/depositphotos_8138615-stock-photo-old-style-phone-over-yellow.c7f61031e29a619786d3.jpg",
+    "index.html": "/goit-react-hw-06-phonebook/index.html",
+    "main.b11feddf.css.map": "/goit-react-hw-06-phonebook/static/css/main.b11feddf.css.map",
+    "main.22d4b75b.js.map": "/goit-react-hw-06-phonebook/static/js/main.22d4b75b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11feddf.css",
+    "static/js/main.22d4b75b.js"
+  ]
+}
